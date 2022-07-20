@@ -1,0 +1,11 @@
+.btn-button {
+    padding: 16px 20px;
+    width: 100%;
+    font-weight: 600;
+    font-size: 16px;
+    max-width: 350px;
+}
+
+.custom-input {
+    background-color: black;
+}
